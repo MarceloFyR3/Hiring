@@ -7,13 +7,14 @@ Consultando API YouTube, .Net Core 3.0, Entity Framework Core CodeFirst, inje√ß√
 ## Vue.js
 Folder HiringDev.View
 
-<p>Precisa ter instalado o Node.js (https://nodejs.org/en/download/)</p>
-<p>E um editor de texto, recomendo VSCode (https://code.visualstudio.com/download)</p>
+<p>Precisa ter instalado o Node.js <a href="https://nodejs.org/en/download/">download</a>
+()</p>
+<p>E um editor de texto, recomendo VSCode <a href="https://code.visualstudio.com/download">download</a></p>
 
 ### command:
 
-npm install<br />
+* npm install<br />
 >>
-npm run serve<br />
+* npm run serve<br />
 
 a APi core tem uqe estar rodando.
