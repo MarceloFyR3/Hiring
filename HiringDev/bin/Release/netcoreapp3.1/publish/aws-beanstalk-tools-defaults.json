@@ -1,0 +1,6 @@
+{
+  "region": "us-east-2",
+  "application": "aspnetcore-hiring",
+  "environment": "aspnetcore-dev",
+  "configuration": "Release"
+}
